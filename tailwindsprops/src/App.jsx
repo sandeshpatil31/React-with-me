@@ -9,7 +9,7 @@ export default function App() {
       {/* ------------------ Login Form ------------------ */}
       <div className="w-full max-w-md bg-white p-8 border rounded-xl shadow-lg">
         <form action="#">
-          <h5 className="text-2xl font-bold text-gray-800 mb-6">
+          <h5 className="text-2xl font-bold text-gray-800 mb-6 text">
             Sign in to our platform
           </h5>
 
